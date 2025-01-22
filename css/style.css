@@ -230,6 +230,11 @@ h1 {
     color: var(--dark-text);
 }
 
+.cake-desc {
+    width: 96%;
+    margin: auto;
+}
+
 /* CONTACT SECTION */
 .contact {
     padding: 1em;
@@ -356,8 +361,8 @@ footer {
 }
 
 
-/* MEDIA 500 */
-@media screen and (max-width: 700px) {
+/* MEDIA 900 */
+@media screen and (max-width: 900px) {
     h1 {
         font-size: 1.4em;
     }
